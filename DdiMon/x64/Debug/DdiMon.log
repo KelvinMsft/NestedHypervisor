@@ -1,0 +1,26 @@
+﻿  Building 'DdiMon' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping x64\Debug\DdiMon.inf [Version] section with DriverVer=03/01/2019,17.58.27.732
+  Assembling ..\HyperPlatform\HyperPlatform\Arch\x86\x86.asm...
+  vmm.cpp
+..\HyperPlatform\HyperPlatform\vmm.cpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+..\HyperPlatform\HyperPlatform\vmm.cpp(325): warning C4189: 'processor_data': local variable is initialized but not referenced
+..\HyperPlatform\HyperPlatform\vmm.cpp(803): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  DdiMon.vcxproj -> C:\Users\kelvinchan\Documents\GitHub\kHypervisor\NestedHypervisor\x64\Debug\DdiMon.sys
+  DdiMon.vcxproj -> C:\Users\kelvinchan\Documents\GitHub\kHypervisor\NestedHypervisor\x64\Debug\DdiMon.pdb (Full PDB)
+  Done Adding Additional Store
+  Successfully signed: C:\Users\kelvinchan\Documents\GitHub\kHypervisor\NestedHypervisor\x64\Debug\DdiMon.sys
+  
+  .........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\kelvinchan\Documents\GitHub\kHypervisor\NestedHypervisor\x64\Debug\DdiMon\ddimon.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\kelvinchan\Documents\GitHub\kHypervisor\NestedHypervisor\x64\Debug\DdiMon\ddimon.cat
+  
